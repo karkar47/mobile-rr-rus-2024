@@ -1,4 +1,4 @@
-# ESP8266 Mobile Rick Roll Captive Portal
+# ESP8266 Mobile Rick Roll Captive Portal. Many bugs fixed and translated to Russian language!
 
 ### This project was featured on the Hack-a-Day blog! [Check it out!](https://hackaday.com/2016/07/19/never-gonna-give-up-free-wifi/)
 
